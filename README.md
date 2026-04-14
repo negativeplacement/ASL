@@ -1,4 +1,3 @@
-Demo
 For best results when testing use the demo.xml it was built using the signAlphaSet Dataset which is greatly larger than the dataset used to build the mediapipe_model.xml
 
 This application uses OpenCV DNN and MediaPipe landmark models to convert American Sign Language (ASL) into text in real-time. It features a custom SVM (Support Vector Machine) classifier trained on hand landmark data.
